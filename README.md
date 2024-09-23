@@ -22,7 +22,7 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ## OUTPUT:
-## WHOIS:
+### WHOIS:
 
 ![image](https://github.com/user-attachments/assets/1a0fb52f-bc5c-46f7-9468-7d2974962baf)
 
