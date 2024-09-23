@@ -1,5 +1,7 @@
 # InformationGathering
 Information Gathering Techiques
+#### NAME    :DHARANI DHARAN K
+#### REG NO  : 212223040036
 
 # To perform information gathering techniques
 
