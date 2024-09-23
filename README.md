@@ -50,7 +50,8 @@ ICMP TRACEROUTE:
 
 ![image](https://github.com/user-attachments/assets/b0177926-04d1-4243-a86e-0b23f2e67355)
 
-TCP TRACEROUTE:\n
+TCP TRACEROUTE:
+
 ![image](https://github.com/user-attachments/assets/f46c33b2-4a38-4112-9494-1bf8bcb49f54)
 
 UDP TRACEROUTE:
