@@ -22,39 +22,39 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ## OUTPUT:
-WHOIS:
+## WHOIS:
 
 ![image](https://github.com/user-attachments/assets/1a0fb52f-bc5c-46f7-9468-7d2974962baf)
 
-IP2LOCATION:
+## IP2LOCATION:
 
 ![Screenshot 2024-09-16 161512](https://github.com/user-attachments/assets/c3592887-517f-401b-bc4e-22c36ccabde9)
 
-PING:
+## PING:
 
 ![Screenshot 2024-09-16 160836](https://github.com/user-attachments/assets/60bfb45d-a173-4a0b-9dd4-6facf1c395e3)
 
-WEB ARCHIEVE:
+## WEB ARCHIEVE:
 
 ![Screenshot 2024-09-16 161001](https://github.com/user-attachments/assets/761126bc-f6ec-4363-b3fc-347202ae81d1)
 
-NMAP:
+## NMAP:
 
 ![Screenshot 2024-09-23 152429](https://github.com/user-attachments/assets/232b8e7a-106e-48d0-951e-d3f5f11e7243)
 
-WHATWEB:
+## WHATWEB:
 
 ![image](https://github.com/user-attachments/assets/b10966fb-3cc3-4cfa-a405-b322316075d5)
 
-ICMP TRACEROUTE:
+## ICMP TRACEROUTE:
 
 ![image](https://github.com/user-attachments/assets/b0177926-04d1-4243-a86e-0b23f2e67355)
 
-TCP TRACEROUTE:
+## TCP TRACEROUTE:
 
 ![image](https://github.com/user-attachments/assets/f46c33b2-4a38-4112-9494-1bf8bcb49f54)
 
-UDP TRACEROUTE:
+## UDP TRACEROUTE:
 ![image](https://github.com/user-attachments/assets/5668b0da-caa6-4a9b-bc5f-a622dfee7d06)\n
 
 
